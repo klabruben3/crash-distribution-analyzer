@@ -34,7 +34,7 @@ crash-distribution-analyzer/
 ## ⚡ Quick Start
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/crash-distribution-analyzer.git
+git clone https://github.com/klabruben3/crash-distribution-analyzer.git
 cd crash-distribution-analyzer
 ```
 
